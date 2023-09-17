@@ -21,7 +21,8 @@ function App() {
         firebase.putData('users/accounts', {email, password});
       }}>Create User</button>
       <hr/> */}
-      <Facility/>
+      {/* <Facility/> */}
+      <h1>Your Project is initialized Properly.</h1>
     </>
   );
 }
